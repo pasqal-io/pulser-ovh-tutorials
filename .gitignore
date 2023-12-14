@@ -14,3 +14,5 @@ docs/build/
 dist/
 env*
 *.egg-info/
+run_all.py
+venv

@@ -1,5 +1,4 @@
-# pulser tutorials for OVH
+# Pulser OVH tutorials
 
-This repository features a set of Pulser tutorials organized to be shared in the scope of OVH notebooks. 
-These tutorials showcase various features and usecases of Pulser for analog and digital-analog quantum computing 
-with neutral atoms.
+These tutorials were extacted from the Pulser public documentation and reorganized for the OVH Pulser notebook. 
+When using this repository in a standalone more, you can install the dependencies from `requirements.txt`. In particular, make sure you version of Pulser matches the one in the requirements.
