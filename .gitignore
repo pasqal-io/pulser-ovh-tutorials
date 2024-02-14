@@ -16,3 +16,4 @@ env*
 *.egg-info/
 run_all.py
 venv
+.*.ipynb.metadata
